@@ -20,7 +20,7 @@ Use len() method to get the number of rows and columns.
 Print the output.
 
 ## PROGRAM:
-```
+```python
 import pandas as pd
 df = pd.read_csv('nba.csv')
 print(df.head(10))
